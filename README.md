@@ -2,9 +2,7 @@
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MichaelFaurel/)
 
-I'm a passionate devops engineer, former developer, technical architect with a phd in... geosciences. I live in France. My passion for IT lies with dreaming up ideas and making them come true. I am also an open-source enthusiast, I love how collaboration and knowledge sharing makes the world better. 
-
-
+I'm a passionate devops engineer & technical architect with a phd in... geosciences. I live in France. My passion for IT lies with dreaming up ideas and making them come true. I am also an open-source enthusiast, I love how collaboration and knowledge sharing makes the world better. 
 
 
 <div align="center" >

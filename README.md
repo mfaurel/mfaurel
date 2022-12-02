@@ -1,4 +1,9 @@
-### Hi there 👋
+<h2> Hi, I'm Michaël Faurel ! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+
+I'm a passionate devops engineer, former developer, technical architect with a phd in... geosciences. I live in France. My passion for IT lies with dreaming up ideas and making them come true. I am also an open-source enthusiast, I love how collaboration and knowledge sharing makes the world better.
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Deuskull)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MichaelFaurel/)
 
 <div align="center" >
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=mfaurel&theme=flat&margin-w=20&no-frame=true" />
@@ -6,18 +11,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mfaurel&show_icons=true" />
 </div>
 
-
-<!--
-**mfaurel/mfaurel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

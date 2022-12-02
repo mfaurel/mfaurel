@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<div align="center" >
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=mfaurel&theme=flat&margin-w=20&no-frame=true" />
+  <br /><br /><br />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mfaurel&show_icons=true" />
+</div>
+
+
 <!--
 **mfaurel/mfaurel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
